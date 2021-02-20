@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "packages": {
+    "@spectrum-edge/tokens": {
+      "signature": "a174a7fc7ce69a35e605b0ab977f8ac9",
+      "link": true
+    },
+    "@spectrum-edge/components": {
+      "signature": "af150527687cdfb6fa38a6b0894c1d33",
+      "link": true,
+      "replaced": "^0.1.11"
+    }
+  }
+}
